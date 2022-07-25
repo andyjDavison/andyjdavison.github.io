@@ -1,2 +1,2 @@
-# andyjdavison.github.io/
+# andyjdavison.github.io
 A website all about me
